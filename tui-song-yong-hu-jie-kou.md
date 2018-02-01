@@ -18,7 +18,6 @@
 
 ```
     POST
-
     Content-Type：application/json;charset=utf-8
 ```
 
@@ -42,13 +41,13 @@
 
 **返回示例：**
 
-{
-
-"status": "1",
-
-"msg": "推送成功"
-
-}
+> {
+>
+> "status": "1",
+>
+> "msg": "推送成功"
+>
+> }
 
 **返回参数说明：**
 
