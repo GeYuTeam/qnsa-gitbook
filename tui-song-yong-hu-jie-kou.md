@@ -31,12 +31,12 @@
 | mobile | 是 | String | 手机号 |
 | wechatNo | 是 | String | 微信号 |
 | qqNo | 是 | String | qq号 |
-| education | 是 | String | 学历: 硕士及以上 本科 大专 中专/高中及以下 |
+| education | 是 | String | 学历: 硕士及以上、本科、大专、中专/高中及以下 |
 | regionCode | 是 | String | 区域 |
 | livingAddress | 是 | String | 居住地址 |
-| ifSocialSecurity | 是 | String | 是否缴纳社保: 否 是 |
+| ifSocialSecurity | 是 | String | 是否缴纳社保: 否、是 |
 | contactName | 是 | String | 紧急联系人姓名 |
-| contactRelationship | 是 | String | 紧急联系人关系: 配偶 父母 兄弟姐妹 子女 同事 同学 朋友 |
+| contactRelationship | 是 | String | 紧急联系人关系: 配偶、 父母、兄弟姐妹、子女、同事、同学、朋友 |
 | contactPhone | 是 | String | 紧急联系人电话 |
 
 **返回示例：**
